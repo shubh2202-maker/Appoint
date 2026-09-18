@@ -1,0 +1,5 @@
+P001|Rahul Sharma|21|Male|9876543210
+P002|Priya Verma|24|Female|9876501234
+P003|Aman Gupta|30|Male|9812345678
+ P001Name: Rahul SharmaAge: 21Gender: MalePhone: 9876543210|rahul sharma|21|Male|454455454
+233|323|323|32|32

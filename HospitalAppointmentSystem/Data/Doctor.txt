@@ -1,0 +1,4 @@
+D001|Amit Kumar|Cardiologist|800.0
+D002|Neha Sharma|Dermatologist|600.0
+D003|Rajesh Verma|Orthopedic|700.0
+D004|Pooja Singh|General Physician|500.0
